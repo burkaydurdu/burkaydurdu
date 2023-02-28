@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burkay</h1>
 <h3 align="center">full stack developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Go**
-
 - 📝 I regularly write articles on [https://burkaydurdu.github.io](https://burkaydurdu.github.io)
 
-- 💬 Ask me about **Clojure, Ruby, Java**
+- 💬 Ask me about **Clojure, Ruby, Java, Go**
 
 - 📫 How to reach me **burkaydurdu@outlook.com**
 
